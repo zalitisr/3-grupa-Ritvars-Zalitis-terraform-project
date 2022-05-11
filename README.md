@@ -1,0 +1,1 @@
+# 3-grupa-Ritvars-Zalitis-terraform-project
